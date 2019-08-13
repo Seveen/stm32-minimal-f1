@@ -5,7 +5,7 @@ From https://www.purplealienplanet.com/node/69 and the templates and examples in
 
 ## Installation
 ### Clone this repo
-    git clone https://gitlab.com/Seveen/stm32-minimal-f1.git
+    git clone https://github.com/Seveen/stm32-minimal-f1.git
     cd stm32-minimal-f1
 
 You need the STM32CubeF1 soft package from ST https://www.st.com/en/embedded-software/stm32cubef1.html
