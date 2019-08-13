@@ -1,0 +1,10 @@
+Drivers/BSP/
+Drivers/CMSIS/
+Drivers/STM32F1xx_HAL_Driver/
+Drivers/*.a
+
+*.bin
+*.elf
+*.hex
+*.lst
+*.map
